@@ -3,13 +3,13 @@ A Flutter app for managing your personal to-do list with offline storage, elegan
 
 ## Features
 
-- **Task List:** Add, edit, search, complete, and delete tasks—simple productivity that works offline.
-- **Filter & Search:** Instantly filter all, active, or completed tasks. Search your task list on the fly.
-- **Animated UX:** Enjoy animated transitions and undo actions for deletes.
-- **Theme Switching:** Toggle between light and dark modes; your theme preference is remembered.
-- **Offline Persistence:** All your tasks and app settings are stored locally with Hive.
-- **Undo Support:** Dismiss tasks with swipe-to-delete and easy undo via snackbar.
-- **Modern UI:** Features a gradient AppBar, Material 3 widgets, and a responsive layout.
+- **Your To-Dos**: Easily add, edit, complete, and delete tasks—all saved offline for peace of mind.
+
+- **Quick Filter & Search**: Instantly find or filter tasks by status with a tap or quick search.
+
+- **Satisfying Experience**: Enjoy smooth animations, swipe-to-delete with undo, and a stylish modern UI.
+
+- **Personalized Look**: Switch between light and dark mode, your theme and tasks are always remembered.
 
 ## Setup Instructions
 1. Clone the repo:
@@ -23,7 +23,7 @@ flutter run
 
 ## Tech Stack
 
-- **Flutter SDK:** 3.24.5 (or compatible 3.x)
+- **Flutter SDK:** 3.24.5 
 - **State Management:** flutter_bloc (Bloc & Cubit)
 - **Persistence:** Hive (NoSQL local storage)
 - **UI Theme:** Material 3, supports dynamic theme switching
@@ -45,9 +45,13 @@ ThemeCubit persists the choice in Hive and lets users toggle dark/light mode wit
 
 ## Download APK
 
-APK : [Your APK download link here]
+APK : https://drive.google.com/file/d/1787lfa9554japoDvuLUA1hB3XvMUMhMa/view?usp=drive_link
 
 ## Screenshots
+
+### **Folder Structure**
+<img src="https://github.com/user-attachments/assets/545f08ce-2c82-4a69-a417-faa517e94282" alt="Folder Structure" width="300" height="300"/>
+
 
 ### **1. Home Page, Add Task Box, Add Task**
 <table>
