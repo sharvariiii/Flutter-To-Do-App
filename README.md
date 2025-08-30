@@ -53,15 +53,15 @@ APK : [Your APK download link here]
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_home.png" alt="Home Page" width="250"/>
+      <img src="https://github.com/user-attachments/assets/a0844fc7-fdd1-4b2c-bcc4-83e49c757d9b" alt="Home Page" width="250"/>
       <br><b>Home Page</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_add_box.png" alt="Add Task Box" width="250"/>
+      <img src="https://github.com/user-attachments/assets/9f082a18-4fd1-44b1-ba0f-4e0e97847d77" alt="Add Task Box" width="250"/>
       <br><b>Add Task Box</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_add.png" alt="Add Task" width="250"/>
+      <img src="https://github.com/user-attachments/assets/8890c643-0633-47a5-b857-526b56e3b871" alt="Add Task" width="250"/>
       <br><b>Add Task</b>
     </td>
   </tr>
@@ -73,15 +73,15 @@ APK : [Your APK download link here]
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_all.png" alt="All Tasks" width="250"/>
+      <img src="https://github.com/user-attachments/assets/d4b83a63-0620-4551-9490-d5038d4ff044" alt="All Tasks" width="250"/>
       <br><b>All Tasks</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_active.png" alt="Active Tasks" width="250"/>
+      <img src="https://github.com/user-attachments/assets/29c9cacd-02d1-4805-9636-d788a395f042" alt="Active Tasks" width="250"/>
       <br><b>Active Tasks</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_completed.png" alt="Completed Tasks" width="250"/>
+      <img src="https://github.com/user-attachments/assets/a45d56c7-0dbe-4a3a-8c0d-917fd3cc9580" alt="Completed Tasks" width="250"/>
       <br><b>Completed Tasks</b>
     </td>
   </tr>
@@ -93,15 +93,15 @@ APK : [Your APK download link here]
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_edit.png" alt="Edit Task" width="250"/>
+      <img src="https://github.com/user-attachments/assets/874f2462-7ace-42c0-8fba-fe9b4553f455" alt="Edit Task" width="250"/>
       <br><b>Edit Task</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_search.png" alt="Search" width="250"/>
+      <img src="https://github.com/user-attachments/assets/fb0e3d7c-e534-442c-83c6-2f21b087fa49" alt="Search" width="250"/>
       <br><b>Search</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_empty.png" alt="No Tasks" width="250"/>
+      <img src="https://github.com/user-attachments/assets/cd48c1c8-ed19-4c79-8073-c54a43277c1e" alt="No Tasks" width="250"/>
       <br><b>No Tasks</b>
     </td>
   </tr>
@@ -113,11 +113,11 @@ APK : [Your APK download link here]
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_dark.png" alt="Dark Theme" width="250"/>
+      <img src="https://github.com/user-attachments/assets/d8c245b0-9d6e-42ef-ad23-7343ecd38c92"  alt="Dark Theme" width="250"/>
       <br><b>Dark Theme</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/todo_light.png" alt="Light Theme" width="250"/>
+      <img src="https://github.com/user-attachments/assets/ce5a1c3b-6082-4452-9d45-0b9536df1cec" alt="Light Theme" width="250"/>
       <br><b>Light Theme</b>
     </td>
   </tr>
